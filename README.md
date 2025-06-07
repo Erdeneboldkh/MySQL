@@ -7,6 +7,7 @@ What I Did
 3. Standardized data formats and naming to ensure consistency.
 4. Fixed missing or blank values.
 5. Deleted unnecessary columns and rows to keep the data relevant and clean.
+6. Performed exploratory data analysis (EDA) to uncover patterns and insights from the data.
 
 Tools Used
 MySQL
